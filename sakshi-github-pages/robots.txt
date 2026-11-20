@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-# A filing instruction for humans who read this far: SK{PAPERTRAIL}
